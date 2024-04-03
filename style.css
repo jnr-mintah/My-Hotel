@@ -358,7 +358,7 @@ overflow: hidden;
 .divisions{
     width: 100%;
     height: 165rem;
-    background-color: lightblue;
+    background-color: gainsboro;
     display: flex;
 }
 
